@@ -1,1 +1,2 @@
 # KPMG-Data-Analytics-Consulting-Virtual-Internship
+Data Quality Assessment in that lots of data there I have studied that data then I identify all data quality issues , then draft an email to the client identifying all data quality issues. After that , Data Insights are there in that I have done presentation about Data exploration , Model development and Interpretation and report. And last task I have visualize data and by using Power BI create a dashboard.
